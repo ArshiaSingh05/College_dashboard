@@ -71,6 +71,6 @@ College_Recommendation_Dashboard
 
 👨‍💻 Author
 
-Udit Katiyar
+Arshia Singh
 2nd Year CSE Student, Lovely Professional University
-📍 Kanpur | ✉️ singharshia2005@gmail.com | 🌐 https://www.linkedin.com/in/arshia05/
+📍 Delhi | ✉️ singharshia2005@gmail.com | 🌐 https://www.linkedin.com/in/arshia05/

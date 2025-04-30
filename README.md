@@ -55,14 +55,7 @@ College_Recommendation_Dashboard
 
 📈 Sample Visuals
 
-
-    ![image](https://github.com/user-attachments/assets/35fe1a80-7b1c-4d20-a08c-102508665504)
-    ![image](https://github.com/user-attachments/assets/a5d944f2-9b9d-45cd-a265-190e60b89887)
-    ![image](https://github.com/user-attachments/assets/e52b38fc-6afe-43c9-98b8-fc50e3ade2a0)
-
-
-
-
+https://github.com/ArshiaSingh05/College_recommendation_dashboard/blob/main/assets/Dashboard.png?raw=true
 
 ✅ Outcome
 

@@ -55,7 +55,6 @@ College_Recommendation_Dashboard
 
 📈 Sample Visuals
 
-https://github.com/ArshiaSingh05/College_recommendation_dashboard/blob/main/assets/Dashboard.png?raw=true
 
 ✅ Outcome
 

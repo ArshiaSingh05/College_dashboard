@@ -51,12 +51,16 @@ College_Recommendation_Dashboard
     The dataset includes college details from collected from various Universities , Colleges.
 
     Fields include college name, location, stream, fees, placement stats, ranking, and faculty details.
+    ![image](https://github.com/user-attachments/assets/721d9d64-5f3c-4769-814e-30a8a95e340d)
+
 
 📈 Sample Visuals
+
 
     ![image](https://github.com/user-attachments/assets/35fe1a80-7b1c-4d20-a08c-102508665504)
     ![image](https://github.com/user-attachments/assets/a5d944f2-9b9d-45cd-a265-190e60b89887)
     ![image](https://github.com/user-attachments/assets/e52b38fc-6afe-43c9-98b8-fc50e3ade2a0)
+
 
 
 
